@@ -6,9 +6,6 @@
 void main() //teste
 {
 	exibirMsg();
-	
-	
-	
 }
 
 void exibirMsg()
